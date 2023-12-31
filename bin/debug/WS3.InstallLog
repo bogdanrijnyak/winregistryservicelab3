@@ -1,0 +1,36 @@
+﻿Installing assembly 'C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe
+   logfile = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.InstallLog
+Rolling back assembly 'C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe
+   logfile = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.InstallLog
+Installing assembly 'C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe
+   logfile = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe
+   logfile = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe
+   logfile = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.InstallLog
+Installing service Service11...
+Service Service11 has been successfully installed.
+Creating EventLog source Service11 in log Application...
+Committing assembly 'C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.exe
+   logfile = C:\Users\XAOC\source\WS3\WS3\bin\Debug\WS3.InstallLog
